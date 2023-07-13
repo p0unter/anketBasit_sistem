@@ -1,0 +1,17 @@
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\bin\Debug\net6.0-windows\yarisma_proc_dem1.exe
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\bin\Debug\net6.0-windows\yarisma_proc_dem1.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\bin\Debug\net6.0-windows\yarisma_proc_dem1.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\bin\Debug\net6.0-windows\yarisma_proc_dem1.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\bin\Debug\net6.0-windows\yarisma_proc_dem1.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\refint\yarisma_proc_dem1.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\yarisma_proc_dem1.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\yarisma_proc_dem1\yarisma_proc_dem1\obj\Debug\net6.0-windows\ref\yarisma_proc_dem1.dll
